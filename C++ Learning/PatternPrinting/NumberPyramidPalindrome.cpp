@@ -8,10 +8,4 @@ int main (){
     for(int k=1;k<=i;k++)cout<<k;
     for(int l=i-1;l>=1;l--)cout<<l;
     cout<<endl;}
-
-
- 
-
-
-
 }
